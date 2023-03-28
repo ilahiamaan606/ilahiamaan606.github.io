@@ -78,9 +78,9 @@ document.getElementById("resume-button-1").onclick = ()=>{
   window.open("https://drive.google.com/file/d/1KqYYuxrbvswg6kHEkeEjY7axP9vT8GJO/view?usp=share_link",`_blank`)
 }
 
-document.getElementById("resume-button-2").onclick = ()=>{
-  window.open("https://drive.google.com/file/d/1KqYYuxrbvswg6kHEkeEjY7axP9vT8GJO/view?usp=share_link",`_blank`)
-}
+// document.getElementById("resume-button-2").onclick = ()=>{
+//   window.open("https://drive.google.com/file/d/1KqYYuxrbvswg6kHEkeEjY7axP9vT8GJO/view?usp=share_link",`_blank`)
+// }
 
 //git calender
 
