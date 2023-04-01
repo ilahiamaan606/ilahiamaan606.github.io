@@ -78,9 +78,9 @@ $(document).ready(function () {
 
 // document.getElementById("resume-button-2").addEventListener("click",abc)
 
-// function abc(){
-//   window.open("https://drive.google.com/file/d/1KqYYuxrbvswg6kHEkeEjY7axP9vT8GJO/view?usp=share_link",`_blank`)
-// }
+function abc(){
+  window.open("https://drive.google.com/file/d/1KqYYuxrbvswg6kHEkeEjY7axP9vT8GJO/view?usp=share_link",`_blank`)
+}
 
 //git calender
 
